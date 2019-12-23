@@ -1,0 +1,16 @@
+body {
+	font-weight: 300;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.userInput{
+  width: 150px;
+  height: 20px;
+}
+
+
+.button{
+  height: 25px;
+  border-radius: 10%;
+}
